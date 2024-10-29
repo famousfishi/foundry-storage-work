@@ -5,5 +5,4 @@ contract SimpleStorage {
     bool hasFaouriteNumber = false;
     uint256 favouriteNumber = 90;
     string favouriteNumbebrInText = "ninety";
-    address myAddress;
 }
